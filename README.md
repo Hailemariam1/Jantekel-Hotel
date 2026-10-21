@@ -7,7 +7,7 @@ A **production-ready, enterprise-grade** full-stack hotel website and management
 ## 🏗️ Architecture
 
 ```
-Texas hotel/
+Jantekel hotel/
 ├── frontend/        # Next.js (App Router, TypeScript, Tailwind CSS)
 ├── backend/         # NestJS (TypeScript, Prisma, PostgreSQL)
 ├── docker-compose.yml  # Local PostgreSQL dev database
