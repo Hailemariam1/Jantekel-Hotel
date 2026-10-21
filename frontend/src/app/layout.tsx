@@ -6,8 +6,8 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-serif" });
 
 export const metadata: Metadata = {
-  title: "Texas Hotel | Luxury Hotel in Gondar",
-  description: "Experience premium luxury at Texas Hotel, a five-star hotel in Gondar, Ethiopia. Book your stay today.",
+  title: "Jantekel Hotel | Luxury Hotel in Gondar",
+  description: "Experience premium luxury at Jantekel Hotel, a five-star hotel in Gondar, Ethiopia. Book your stay today.",
 };
 
 export default function RootLayout({

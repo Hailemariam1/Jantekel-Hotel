@@ -1,6 +1,6 @@
-# 🏨 Texas Hotel — Luxury Hotel Management System
+# 🏨 Jantekel Hotel — Luxury Hotel Management System
 
-A **production-ready, enterprise-grade** full-stack hotel website and management system for **Texas Hotel**, a five-star luxury hotel in **Gondar, Ethiopia**.
+A **production-ready, enterprise-grade** full-stack hotel website and management system for **Jantekel Hotel**, a five-star luxury hotel in **Gondar, Ethiopia**.
 
 ---
 
@@ -86,4 +86,4 @@ Open [http://localhost:3001](http://localhost:3001) for the API.
 ---
 
 ## 📄 License
-MIT License — Texas Hotel
+MIT License — Jantekel Hotel

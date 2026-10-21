@@ -45,7 +45,7 @@ export default function Home() {
             transition={{ duration: 1, delay: 0.5 }}
             className="text-lg md:text-xl text-gray-300 max-w-2xl mb-12"
           >
-            A sanctuary of elegance and unmatched hospitality. Discover the majestic beauty of Ethiopia while staying at the premier five-star Texas Hotel.
+            A sanctuary of elegance and unmatched hospitality. Discover the majestic beauty of Ethiopia while staying at the premier five-star Jantekel Hotel.
           </motion.p>
 
           <motion.div
@@ -102,7 +102,7 @@ export default function Home() {
       <section className="py-32 px-4 max-w-7xl mx-auto text-center">
         <h2 className="text-4xl text-primary mb-4">A World of Indulgence</h2>
         <p className="text-gray-400 max-w-2xl mx-auto mb-16">
-          From world-class dining to rejuvenating spa treatments, every moment at Texas Hotel is designed to exceed your expectations.
+          From world-class dining to rejuvenating spa treatments, every moment at Jantekel Hotel is designed to exceed your expectations.
         </p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {[

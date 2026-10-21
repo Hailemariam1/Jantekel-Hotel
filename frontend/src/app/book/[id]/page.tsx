@@ -112,7 +112,7 @@ export default function BookingPage() {
                   </div>
                   <h2 className="text-3xl text-white font-serif mb-4">Reservation Confirmed</h2>
                   <p className="text-gray-400 mb-8 max-w-md mx-auto">
-                    Thank you for choosing Texas Hotel. A confirmation email has been sent to your inbox. We look forward to welcoming you.
+                    Thank you for choosing Jantekel Hotel. A confirmation email has been sent to your inbox. We look forward to welcoming you.
                   </p>
                   <Link href="/" className="inline-block border border-primary text-primary hover:bg-primary hover:text-secondary font-medium px-8 py-3 rounded transition-colors">
                     Return to Home

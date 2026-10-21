@@ -15,7 +15,7 @@ export default function AdminOverview() {
     <div className="space-y-8">
       <div>
         <h1 className="text-3xl font-serif text-white mb-2">Dashboard Overview</h1>
-        <p className="text-gray-400 text-sm">Welcome back. Here is what is happening at Texas Hotel today.</p>
+        <p className="text-gray-400 text-sm">Welcome back. Here is what is happening at Jantekel Hotel today.</p>
       </div>
 
       {/* KPI Cards */}
