@@ -1,4 +1,4 @@
-# 🏨 Texas Hotel — Luxury Hotel Management System
+# 🏨 Jantekel Hotel — Luxury Hotel Management System
 
 A **production-ready, enterprise-grade** full-stack hotel website and management system for **Texas Hotel**, a five-star luxury hotel in **Gondar, Ethiopia**.
 
