@@ -57,7 +57,7 @@ export default function RoomsPage() {
               transition={{ duration: 0.6, delay: index * 0.1 }}
               className={`flex flex-col ${index % 2 !== 0 ? 'lg:flex-row-reverse' : 'lg:flex-row'} gap-8 bg-surface rounded-xl overflow-hidden border border-white/5 hover:border-primary/30 transition-colors duration-500`}
             >
-              <div className="lg:w-1/2 h-[400px] relative overflow-hidden">
+              <div className="relative aspect-[4/3] w-full overflow-hidden lg:w-1/2 lg:aspect-auto lg:min-h-[400px]">
                 <div 
                   className="absolute inset-0 bg-cover bg-center hover:scale-105 transition-transform duration-700"
                   style={{ backgroundImage: `url(${room.image})` }}

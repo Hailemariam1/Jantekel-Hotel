@@ -110,7 +110,7 @@ export default function Home() {
             { title: "Luxury Suites", img: "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2070&auto=format&fit=crop" },
             { title: "Wellness Spa", img: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=2070&auto=format&fit=crop" }
           ].map((feature, idx) => (
-            <div key={idx} className="group relative h-96 overflow-hidden rounded-lg cursor-pointer">
+            <div key={idx} className="group relative aspect-[4/3] overflow-hidden rounded-lg cursor-pointer">
               <div 
                 className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-110"
                 style={{ backgroundImage: `url(${feature.img})` }}

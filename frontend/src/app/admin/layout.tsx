@@ -21,7 +21,10 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
       <aside className="w-64 bg-surface border-r border-white/10 flex flex-col hidden md:flex">
         <div className="p-6 border-b border-white/10 flex items-center justify-center">
           <Link href="/">
-            <h1 className="text-2xl font-serif text-primary tracking-wider">TEXAS<span className="text-white text-sm block tracking-widest text-center mt-1">HOTEL</span></h1>
+            <h1 className="text-xl font-serif text-primary tracking-[0.18em] text-center">
+              JANTEKEL
+              <span className="text-white text-xs block tracking-[0.35em] text-center mt-1">HOTEL</span>
+            </h1>
           </Link>
         </div>
         
